@@ -26,6 +26,22 @@
       }
     ]
   },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Japanese",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
