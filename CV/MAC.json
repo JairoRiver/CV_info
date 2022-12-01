@@ -1,10 +1,24 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
+    "profile": {
+      "name": "Jairo",
+      "surnames": "Rivera Cueva",
+      "avatar": {
+        "alt": "_20211108_120105.JPG",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/01/b431b387-6ad2-4a17-9414-83f3dd78c277__20211108_120105.jpg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
     "relevantLinks": [
       {
         "type": "linkedin",
@@ -20,6 +34,7 @@
           "URL": "https://www.linkedin.com/in/jairoriveracueva/"
         }
       ]
-    }
+    },
+    "status": "notAvailable"
   }
 }
