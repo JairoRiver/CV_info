@@ -72,19 +72,7 @@
       },
       {
         "skill": {
-          "name": "Go",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Grafana",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kubernetes",
           "type": "technology"
         }
       },
@@ -96,13 +84,13 @@
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": "Microsoft Power BI",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Nginx",
+          "name": "MongoDB",
           "type": "technology"
         }
       },
@@ -127,6 +115,12 @@
       {
         "skill": {
           "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
           "type": "technology"
         }
       }
@@ -207,6 +201,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
         "name": "Docker",
         "type": "technology"
       },
@@ -215,15 +213,11 @@
         "type": "technology"
       },
       {
-        "name": "Go",
+        "name": "Python",
         "type": "technology"
       },
       {
-        "name": "Kubernetes",
-        "type": "technology"
-      },
-      {
-        "name": "Nginx",
+        "name": "SQL",
         "type": "technology"
       }
     ]
