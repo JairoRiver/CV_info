@@ -178,6 +178,10 @@
         {
           "name": "Go",
           "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
