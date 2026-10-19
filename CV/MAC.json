@@ -180,6 +180,10 @@
           "type": "technology"
         },
         {
+          "name": "Microsoft Power Automate",
+          "type": "technology"
+        },
+        {
           "name": "Python",
           "type": "technology"
         },
