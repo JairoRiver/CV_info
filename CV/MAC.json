@@ -178,10 +178,6 @@
         {
           "name": "Go",
           "type": "technology"
-        },
-        {
-          "name": "Kubernetes",
-          "type": "technology"
         }
       ],
       "preferredRoles": [
