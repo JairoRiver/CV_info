@@ -185,7 +185,8 @@
         }
       ],
       "preferredRoles": [
-        "Data Analyst & BI"
+        "Data Analyst & BI",
+        "Data Scientist"
       ]
     },
     "status": "notAvailable"
